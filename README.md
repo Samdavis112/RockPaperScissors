@@ -1,2 +1,2 @@
-# RockPaperScissors (Link below)
+# RockPaperScissors
 # https://samdavis112.github.io/RockPaperScissors/
